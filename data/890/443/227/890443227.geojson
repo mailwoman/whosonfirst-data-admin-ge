@@ -782,8 +782,7 @@
     "wof:belongsto":[
         102191569,
         85633163,
-        1108805945,
-        1108691371
+        1108805945
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -815,7 +814,6 @@
         {
             "continent_id":102191569,
             "country_id":85633163,
-            "county_id":1108691371,
             "locality_id":890443227,
             "region_id":1108805945
         }
@@ -824,7 +822,7 @@
     "wof:lastmodified":1690921454,
     "wof:megacity":1,
     "wof:name":"Tbilisi",
-    "wof:parent_id":1108691371,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":1118035,
     "wof:population_rank":12,

@@ -33,8 +33,7 @@
     "wof:belongsto":[
         102191569,
         85633163,
-        1108805945,
-        1108691371
+        1108805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +45,6 @@
         {
             "continent_id":102191569,
             "country_id":85633163,
-            "county_id":1108691371,
             "locality_id":1326940329,
             "region_id":1108805945
         }
@@ -54,7 +52,7 @@
     "wof:id":1326940329,
     "wof:lastmodified":1566636730,
     "wof:name":"Samgorskiy Uchastok Pervyy",
-    "wof:parent_id":1108691371,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ge",
     "wof:superseded_by":[],

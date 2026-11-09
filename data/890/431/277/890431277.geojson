@@ -33,8 +33,6 @@
     "wof:belongsto":[
         102191569,
         85633163,
-        85671301,
-        1108691371,
         1108805945
     ],
     "wof:breaches":[],
@@ -49,14 +47,11 @@
         {
             "continent_id":102191569,
             "country_id":85633163,
-            "county_id":1108691371,
-            "locality_id":890431277,
-            "region_id":85671301
+            "locality_id":890431277
         },
         {
             "continent_id":102191569,
             "country_id":85633163,
-            "county_id":1108691371,
             "locality_id":890431277,
             "region_id":1108805945
         }
@@ -64,7 +59,7 @@
     "wof:id":890431277,
     "wof:lastmodified":1566637218,
     "wof:name":"Zahesi",
-    "wof:parent_id":1108691371,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":1933,
     "wof:population_rank":3,

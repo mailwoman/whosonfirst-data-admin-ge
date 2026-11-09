@@ -113,8 +113,7 @@
     "wof:belongsto":[
         102191569,
         85633163,
-        1108805945,
-        1108691371
+        1108805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -131,7 +130,6 @@
         {
             "continent_id":102191569,
             "country_id":85633163,
-            "county_id":1108691371,
             "locality_id":421172897,
             "region_id":1108805945
         }
@@ -139,7 +137,7 @@
     "wof:id":421172897,
     "wof:lastmodified":1690921427,
     "wof:name":"Kojori",
-    "wof:parent_id":1108691371,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":678,
     "wof:population_rank":2,
